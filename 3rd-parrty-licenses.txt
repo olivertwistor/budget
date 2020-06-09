@@ -1,5 +1,5 @@
 H2 Database
-License: MPL 2.0 or EPL 1,0
+License: MPL 2.0 or EPL 1.0
 
 This software contains unmodified binary redistributions for
 H2 database engine (http://www.h2database.com/),

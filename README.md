@@ -1,57 +1,49 @@
 # Budget
-More info is coming soon.
 
 ## Table of contents
-* [Who is this for?](#who-is-this-for)
-* [Prerequisites](#prerequisites)
-* [Installation instructions](#installation-instructions)
-* [Usage](#usage)
-* [Licensing](#licensing)
-    * [Third-party licenses](#third-party-licenses)
-* [How to contribute](#how-to-contribute)
-* [Versioning](#versioning)
+* [Background](#background)
+* [Purpose](#purpose)
+* [Goal](#goal)
+* [Stakeholders](#stakeholders)
 
-## Who is this for?
-More info is coming soon.
+## Background
+Accounting is one of my many hobbies. Others are finance and investing. For 
+many years I have managed my budget in a Microsoft Excel file, but it has 
+gotten quite unwieldly and despite Excel being a very good program, it has 
+certain limitations.
 
-## Prerequisites
-* [Java 7 or newer][1]
+There are many applications and web services providing budget functionality. 
+However, most of the free and cheap ones are too simplistic for my needs. I 
+have searched for something where I can have multiple layers of granularity 
+when it comes to income and expenses, without it being a full-blown accounting 
+software. So far I haven't found anything suitable.
 
-## Installation instructions
-More info is coming once the first release is out.
+## Purpose
+The purpose of Budget is to give the user a feature-rich budget application 
+that is easy to use and customise. The user should be able to both make the 
+budget and to follow it up with actual numbers.
 
-## Usage
-More info is coming once the first release is out.
+## Goal
+The goal of Budget is to make a Java application that:
 
-## Licensing
-This application is licensed under the Mozilla Public License 2.0. For detailed 
-license terms, please read [LICENSE][8].
+* lets the user make budgets for both balance and results (or just one of them 
+to simplify)
+* lets the user follow up their budgets with actual numbers
+* define the budget posts with whichever granularity the user wants
+* shows all numbers in whichever granularity the user chooses, so roll-ups and 
+drill downs are possible
+
+## Stakeholders
+The primary stakeholders of Budget would be people who want a more extensive 
+bugeting application that are commonly available for free or for a low cost.
+
+## Licenses
+This application is licensed under a [Mozilla Public License 2.0][1].
 
 ### Third-party licenses
-This application uses the following third-party libraries and frameworks:
+* H2 Database, dually licensed under a Mozilla Public License 2.0 and an Eclipse Public License 1.0.
 
-* H2 Database &mdash; dually licensed under the Mozilla Public License 2.0 and 
-the Eclipse Public License 1.0
+For more information about all third-party licenses, please read the file [3rd-party-licenses.txt][2].
 
-For detailed license terms for all above libraries and frameworks, please look 
-into [3rd-party-licenses/licenses.txt][2] for a summary of all libraries and 
-frameworks used. In the same folder are the full license terms for all the 
-different licenses.
-
-## How to contribute
-Thank you for wanting to contribute to this project. Open source is all about 
-community. Go and read the document [CONTRIBUTING.md][9] for more information 
-on with what you can contribute and how to go about it.
-
-## Versioning
-This project uses [Semantic Versioning 2.0.0][3] for version numbering. To see 
-what's changed between versions, please read [CHANGELOG.md][10]. That file also 
-has links to the download section of each release.
-
-
-[1]: https://www.oracle.com/technetwork/java/javase/downloads/index.html
-[2]: 3rd-party-licenses/licenses.txt
-[3]: https://semver.org/
-[8]: LICENSE
-[9]: CONTRIBUTING.md
-[10]: CHANGELOG.md
+[1]: LICENSE
+[2]: 3rd-parrty-licenses.txt
