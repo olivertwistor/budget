@@ -41,9 +41,11 @@ bugeting application that are commonly available for free or for a low cost.
 This application is licensed under a [Mozilla Public License 2.0][1].
 
 ### Third-party licenses
-* H2 Database, dually licensed under a Mozilla Public License 2.0 and an Eclipse Public License 1.0.
+* H2 Database, dually licensed under a Mozilla Public License 2.0 and an 
+Eclipse Public License 1.0.
 
-For more information about all third-party licenses, please read the file [3rd-party-licenses.txt][2].
+For more information about all third-party licenses, please read the file 
+[3rd-party-licenses.txt][2].
 
 [1]: LICENSE
 [2]: 3rd-parrty-licenses.txt
