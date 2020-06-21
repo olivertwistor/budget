@@ -38,14 +38,13 @@ The primary stakeholders of Budget would be people who want a more extensive
 bugeting application that are commonly available for free or for a low cost.
 
 ## Licenses
-This application is licensed under a [Mozilla Public License 2.0][1].
+This application is licensed under an [MIT License][1].
 
-### Third-party licenses
-* H2 Database, dually licensed under a Mozilla Public License 2.0 and an 
-Eclipse Public License 1.0.
+### Libraries
+* Java TUI, licensed under an MIT License.
 
-For more information about all third-party licenses, please read the file 
-[3rd-party-licenses.txt][2].
+For more information about all library licenses, please read the file 
+[LICENSE-libs][2].
 
 [1]: LICENSE
-[2]: 3rd-parrty-licenses.txt
+[2]: LICENSE-libs
