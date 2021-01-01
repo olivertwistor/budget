@@ -1,50 +1,22 @@
 # Budget
+This application lets you make a budget for personal use, a small business or 
+organisation. The aim is not to create a full-fledged accounting system, but 
+rather a simple yet flexible budgeting and reporting tool.
 
-## Table of contents
-* [Background](#background)
-* [Purpose](#purpose)
-* [Goal](#goal)
-* [Stakeholders](#stakeholders)
+With this application you can keep track of your budgeted and actual income 
+and expenses, as well as your assets and debts. You can also track them over 
+time and in different levels of granularity.
 
-## Background
-Accounting is one of my many hobbies. Others are finance and investing. For 
-many years I have managed my budget in a Microsoft Excel file, but it has 
-gotten quite unwieldly and despite Excel being a very good program, it has 
-certain limitations.
+* [Installation](#installation)
+* [Usage](#usage)
+* [Licensing](#licensing)
 
-There are many applications and web services providing budget functionality. 
-However, most of the free and cheap ones are too simplistic for my needs. I 
-have searched for something where I can have multiple layers of granularity 
-when it comes to income and expenses, without it being a full-blown accounting 
-software. So far I haven't found anything suitable.
+## Installation
+More info comes with the first release.
 
-## Purpose
-The purpose of Budget is to give the user a feature-rich budget application 
-that is easy to use and customise. The user should be able to both make the 
-budget and to follow it up with actual numbers.
+## Usage
+More info comes with the first release.
 
-## Goal
-The goal of Budget is to make a Java application that:
-
-* lets the user make budgets for both balance and results (or just one of them 
-to simplify)
-* lets the user follow up their budgets with actual numbers
-* define the budget posts with whichever granularity the user wants
-* shows all numbers in whichever granularity the user chooses, so roll-ups and 
-drill downs are possible
-
-## Stakeholders
-The primary stakeholders of Budget would be people who want a more extensive 
-bugeting application that are commonly available for free or for a low cost.
-
-## Licenses
-This application is licensed under an [MIT License][1].
-
-### Libraries
-* Java TUI, licensed under an MIT License.
-
-For more information about all library licenses, please read the file 
-[LICENSE-libs][2].
-
-[1]: LICENSE
-[2]: LICENSE-libs
+## Licensing
+*Budget* is licensed under the *MIT Licence*. You can read the full license 
+terms in the file [LICENSE](LICENSE).
